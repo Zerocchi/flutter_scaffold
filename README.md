@@ -1,6 +1,6 @@
 # flutter_scaffold
 
-A new Flutter project.
+A starter template for Flutter application using BLoC pattern. 
 
 ## Getting Started
 
